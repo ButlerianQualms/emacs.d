@@ -1,0 +1,4 @@
+(:name autotest
+       :pkgname "yasuyk/ac-emmet"
+       :type "github"
+       :description "autocomplete emmet")

@@ -1,0 +1,10 @@
+.smex-items
+auto-save-list
+backups
+*.elc
+*.el~
+el-get/*
+url
+/tramp
+/var/pcache
+plugins/*

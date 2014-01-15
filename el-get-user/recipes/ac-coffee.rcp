@@ -1,0 +1,4 @@
+(:name autotest
+       :pkgname "akfish/ac-coffee"
+       :type "github"
+       :description "autocomplete coffeescript")
